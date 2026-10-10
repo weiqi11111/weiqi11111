@@ -1,16 +1,30 @@
-## Hi there 👋
+# Introduction
 
-<!--
-**weiqi11111/weiqi11111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! 👋 My name is Wei Qi. I am a Software Engineering student at the University of Malaya. I am interested in learning how to develop and test software.
 
-Here are some ideas to get you started:
+**Fun fact**: I can spend hours watching Thai dramas without getting bored. I also love listening to T-pop music. 😻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Course expectations**: I hope to improve my programming skills and learn more about software engineering practices through this course.
+
+## 🎶 My Music Corner
+
+<table>
+  <tr>
+    <td>
+      <img src="Quby4.png" width="85" />
+    </td>
+    <td>
+      🎧 ▶️Click <a href="https://open.spotify.com/track/5y63Qnr10DFAqC6ZMzOkF4?si=b8ea4a3491ee4e2a">here</a> to listen to my favourite Thai song 💗
+    </td>
+  </tr>
+</table>
+
+## 🎀 Things That Make Me Happy
+<p align="center">
+  <img src="Quby.jpg" width="250" />
+  <img src="Quby2.jpg" width="250" />
+</p>
+<p align="center">
+  <img src="Quby3.png" width="250" />
+  <img src="Narak.jpg" width="250" />
+</p>
