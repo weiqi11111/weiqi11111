@@ -4,7 +4,7 @@ Hi! 👋 My name is Wei Qi. I am a Software Engineering student at the Universit
 
 **Fun fact**: I can spend hours watching Thai dramas without getting bored. I also love listening to T-pop music. 😻
 
-**Course expectations**: I hope to improve my programming skills and learn more about software engineering practices through this course.
+**Course expectations**: I hope to learn more about software maintenance and evolution, including how to maintain existing software, fix bugs, improve software quality, and adapt software to changing requirements.
 
 ## 🎶 My Music Corner
 
